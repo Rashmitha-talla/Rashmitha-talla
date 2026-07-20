@@ -31,7 +31,7 @@ Passionate about building impactful software solutions and solving real-world pr
 - CSS
 - JavaScript
 - Node.js
-- 
+  
 ### 🤖 AI & Cloud
 
 - Prompt Engineering
