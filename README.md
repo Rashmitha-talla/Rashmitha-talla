@@ -12,7 +12,7 @@ Passionate about building impactful software solutions and solving real-world pr
 - 🎓 B.Tech Computer Science Student at **CVR College of Engineering (2023–2027)**
 - 📊 **Current CGPA:** 9.08
 - 💻 Interested in **Full Stack Development, AI, and Problem Solving**
-- 🌱 Currently exploring **Advanced Web Development, AI Agents & Cloud Technologies**
+- 🌱 Currently exploring **Web Development, AI Agents & Cloud Technologies**
 - ⚡ Strong analytical thinking with a passion for innovation
 
 ---
